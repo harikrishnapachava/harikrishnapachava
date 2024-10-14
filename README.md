@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**harikrishnapachava/harikrishnapachava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Harikrishna**, a passionate SRE, DevOps & Cloud Engineer with a strong background in Cloud, Site Reliability Engineering, DevOps culture, and Infrastructure Automation. I enjoy solving complex problems, streamlining processes, and ensuring that systems are robust, scalable, and efficient.
 
-Here are some ideas to get you started:
+## 🌟 What I'm About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Currently Working On:** Exciting projects that leverage cloud technologies, automation, and CI/CD pipelines to enhance development workflows and operational efficiency.
+- 🤝 **Looking to Collaborate On:** Projects related to Software Development, DevOps, SRE, and Cloud Engineering.
+
+## 🛠️ Technologies and Tools
+
+| **Cloud** | **Infrastructure as Code** | **CI/CD** | **Monitoring and Logging** | **Programming and Scripting Languages** | **Containerization** |
+|-----------|----------------------------|-----------|-----------------------------|------------------------------------------|----------------------|
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23205384.svg?style=flat&logo=argo&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Datadog] (https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white) ![Elastic Search] (https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white) ![EKS](https://img.shields.io/badge/Amazon%20EKS-%23FF9900.svg?style=flat&logo=amazon-eks&logoColor=white) ![AKS](https://img.shields.io/badge/Azure%20AKS-%230072C6.svg?style=flat&logo=azure-aks&logoColor=white) ![GKE](https://img.shields.io/badge/Google%20GKE-%234285F4.svg?style=flat&logo=google-gke&logoColor=white) |
+
+## 📬 Let's Connect
+
+Feel free to reach out to me for collaboration, networking, or just a chat about technology and innovation.
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnapachava)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harikrishnacpachava@gmail.com)
+
+Looking forward to connecting with like-minded professionals and exploring exciting opportunities in the DevOps space!
